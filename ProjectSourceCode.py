@@ -9,7 +9,7 @@ bottomframe.pack( side = BOTTOM )
 redbutton = Button(frame, text="Browse and select the PDF file you want to process.", fg="blue", command=close_window)
 redbutton.pack( side = LEFT)
 Label(root, text='FBA Project: Audiobook', font=('Comic Sans MS', 25)).pack(side=TOP, pady=10)
-photo = PhotoImage(file=r"C:\\Users\\FBA Desktop\\Downloads\\book.gif")
+photo = PhotoImage(file=r"C:\\Users\\FBA Desktop\\Downloads\\AudiobookGUICanvas.gif")
 Button(root, image=photo).pack(side=TOP)
 root.mainloop()
 import pyttsx3
