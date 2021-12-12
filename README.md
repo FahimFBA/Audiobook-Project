@@ -9,3 +9,7 @@
 ### The additional libraries I have used here to complete my project ###
 * [pyttsx3](https://pypi.org/project/pyttsx3/)
 * [PyPDF2](https://pypi.org/project/PyPDF2/)
+
+### License
+
+![License](https://img.shields.io/github/license/FahimFBA/Invisible-Cloak-Using-Python?color=red&style=for-the-badge)
